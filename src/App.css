@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 .home,
@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('/images/img-2.jpg');
+  background-image: url("/images/img-2.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 }
 
 .products {
-  background-image: url('/images/img-1.jpg');
+  background-image: url("/images/img-1.jpg");
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -35,10 +35,17 @@
 }
 
 .sign-up {
-  background-image: url('/images/img-8.jpg');
+  background-image: url("/src/Documents/Baxter\ resume\ new.docx");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: black;
   font-size: 100px;
+}
+.about-me {
+  font-size: 14px;
+  text-align: center;
+  background-color: coral;
+  margin-left: auto;
+  margin-right: auto;
 }

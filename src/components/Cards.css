@@ -46,7 +46,7 @@ h1 {
 
 .cards__item__pic-wrap {
   position: relative;
-  width: 100%;
+  width: 150%;
   padding-top: 67%;
   overflow: hidden;
 }
@@ -61,9 +61,9 @@ h1 {
   position: absolute;
   bottom: 0;
   margin-left: 10px;
-  padding: 6px 8px;
+  padding: 15px 18px;
   max-width: calc((100%) - 60px);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 700;
   color: #fff;
   background-color: #1f98f4;
